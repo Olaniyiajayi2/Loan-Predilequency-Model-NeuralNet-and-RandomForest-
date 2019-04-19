@@ -1,0 +1,1 @@
+This project entails wrangling of datasets from google bigquery, building a loan pre-delinquency model to predict if a client is likely to default on their loan or not.
